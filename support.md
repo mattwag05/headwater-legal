@@ -26,7 +26,7 @@ Entirely on your iPhone. Headwater has no accounts and no servers, and makes no 
 Profile → Delete All Data, or delete the app. Details: [Deleting Your Data](/headwater-legal/data-deletion/).
 
 **How do I restore my Premium purchase on a new phone?**
-Open the unlock screen (Profile → Prevention Report) and tap **Restore Purchases**. The purchase is a one-time unlock tied to your Apple ID — you never pay twice.
+Open the Plan tab, tap the **Doctor report** button at the top right to open the purchase sheet, then tap **Restore Purchases**. It is a one-time purchase tied to your Apple ID, so you never pay twice.
 
 **Why can't I get a refund from you directly?**
 Purchases are processed by Apple. Request refunds at [reportaproblem.apple.com](https://reportaproblem.apple.com).

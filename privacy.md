@@ -6,7 +6,7 @@ permalink: /privacy/
 # Headwater Privacy Policy
 
 **Effective date:** July 10, 2026
-**Last updated:** July 10, 2026
+**Last updated:** October 26, 2026
 
 Headwater is an educational preventive-health app for iOS made by Matthew John Wagner, an individual developer and board-certified family medicine physician ("we," "us," "I"). This policy describes exactly what Headwater does with your information. It is intentionally short, because the honest answer is: **your data stays on your device.**
 
@@ -36,7 +36,7 @@ None of this is transmitted to us or to anyone else.
 
 ## Purchases
 
-Headwater offers one optional one-time in-app purchase (a lifetime unlock for PDF reports). The purchase is processed entirely by Apple. We do not receive your name, payment details, or Apple ID. See Apple's privacy policy for how Apple handles purchase data.
+Headwater offers one optional one-time in-app purchase (Headwater Premium, which adds PDF report export). The purchase is processed entirely by Apple. We do not receive your name, payment details, or Apple ID. See Apple's privacy policy for how Apple handles purchase data.
 
 ## Notifications
 

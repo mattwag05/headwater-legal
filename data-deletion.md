@@ -22,7 +22,7 @@ Deleting the Headwater app from your iPhone removes its entire local database.
 ## Also worth knowing
 
 - **Apple Health access:** you can revoke Headwater's read access at any time in iOS Settings → Privacy & Security → Health → Headwater. This stops future reads; readings already copied into Headwater are removed by Option 1 or 2. Your original data in Apple Health is never modified by Headwater (the app is read-only).
-- **Your purchase is safe:** deleting data does not affect your one-time Premium purchase. It is tied to your Apple ID and can be brought back anytime with **Restore Purchases** on the unlock screen.
+- **Your purchase is safe:** deleting data does not affect your one-time Premium purchase. It is tied to your Apple ID and can be brought back anytime with **Restore Purchases** on the purchase sheet (Plan tab, then the **Doctor report** button).
 - **PDFs you exported:** any report you previously shared (to Files, Mail, AirDrop, etc.) lives wherever you sent it. Delete those copies from their destinations if you no longer want them.
 - **iOS device backups:** like all app data, Headwater's database may be included in your iCloud or computer backups of the whole device, which are controlled by your Apple ID settings — not by us. If that matters to you, manage it in iOS Settings → [your name] → iCloud → Backups.
 

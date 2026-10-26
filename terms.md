@@ -40,7 +40,7 @@ The App stores your data locally on your device; we do not receive it. See the [
 
 ## 6. Purchases
 
-The App offers an optional **one-time in-app purchase** ("Premium Lifetime Unlock," $4.99 US) that unlocks PDF report export. It is not a subscription and does not renew. Payment is processed by Apple through your Apple ID; refunds are handled by Apple under Apple's terms (you can request one at reportaproblem.apple.com). You can restore the purchase on a new device with "Restore Purchases." All evidence and guideline content in the App is free; the purchase only unlocks value-add tooling.
+The App offers an optional **one-time in-app purchase** ("Headwater Premium," $4.99 US) that adds PDF report export. It is not a subscription and does not renew. Payment is processed by Apple through your Apple ID; refunds are handled by Apple under Apple's terms (you can request one at reportaproblem.apple.com). You can restore the purchase on a new device with "Restore Purchases." All evidence and guideline content in the App is free; the purchase only adds PDF report export.
 
 ## 7. Content and accuracy
 
